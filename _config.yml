@@ -1,0 +1,14 @@
+# Site settings
+title: Jawwad Ahmad
+google_analytics: UA-109558431-1
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - apps.md
+  - links.md
+  - other.md
