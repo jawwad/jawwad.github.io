@@ -10,4 +10,4 @@ In my spare time I do some [tech editing](https://www.raywenderlich.com/about#ja
 
 - [Mobile Apps I've worked on](/apps)
 - [Various Links (GitHub, LinkedIn etc)](/links)
-- [Writing / Technical Editing / Speaking](/other)
+- [Writing / Technical Editing / Speaking](/extracurricular)
